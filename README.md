@@ -40,6 +40,7 @@ This script will send emails at the specified interval (INTERVAL) and display th
 # SCRIPT EXPLANATION
 
 This script cosists of three main functions:
+
     1. create_email: This function constructs an email object with the given subject, body and recipient.
     
     2. send_email: Connects to the SMTP server, authenticates and sends the email to specified recipient.
