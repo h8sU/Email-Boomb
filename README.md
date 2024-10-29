@@ -1,3 +1,5 @@
+![alt text](https://ibb.co/prDNWq6)
+
 # EMAIL Sending Interval Tester
 
 This project is a Python script for testing email server load handling by sending emails at specified intervals.
